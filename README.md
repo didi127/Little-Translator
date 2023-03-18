@@ -12,9 +12,10 @@ npm run dev
 ```
 
 
+
+
 =======
 Little Translator
 
 用到了百度翻译的Api 
 测试
->>>>>>> 65b43e72d76cc8af7c3f60d6c70b98fd03f6620e
