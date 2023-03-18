@@ -11,7 +11,6 @@ npm install
 npm run dev
 ```
 
-![image-20230318122738778](C:\Users\12790\AppData\Roaming\Typora\typora-user-images\image-20230318122738778.png)
 
 =======
 Little Translator
