@@ -55,4 +55,4 @@ Q： 为什么不使用谷歌翻译？
 A： 在中国，谷歌的服务并不稳定。
 
 #### 参考(Reference)
-[百度翻译API Baidu Translate API](http://api.fanyi.baidu.com/api/trans/product/apido)
+[百度翻译API Baidu Translate API](http://api.fanyi.baidu.com/api/trans/product/apidoc)
