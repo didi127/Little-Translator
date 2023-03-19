@@ -2,7 +2,9 @@
 
 <<<<<<< HEAD
 
-Little Translator是一个基于React + TypeScript  + vite可以实现 各种语言 翻译到 中文的项目
+Little Translator是一个基于React + TypeScript  + vite， 通过 百度翻译Api 制作的可以实现 多种语言 翻译到 中文的项目
+
+#### 🛠Development Setup
 
 ```
 ## 安装依赖
@@ -16,7 +18,4 @@ npm run dev
 
 =======
 Little Translator
-
-用到了百度翻译的Api 
-测试
 
