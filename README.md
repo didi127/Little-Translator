@@ -15,7 +15,7 @@ npm run dev
 
 ![预览图](https://github.com/didi127/Little-Translator/blob/develop/src/assets/image/viewimg.png)
 
-#### Supports languages
+#### 支持语言(Supports languages)
 
 ```
 语言简写               名称
@@ -51,10 +51,8 @@ vie                 越南语
 ```
 
 #### Q & A
+Q： 为什么不使用谷歌翻译？
+A： 在中国，谷歌的服务并不稳定。
 
-Q: Why do not use Google translate?
-A: In China, Google's services are not stable.
-
-#### Reference
-
-[Baidu Translate API](http://api.fanyi.baidu.com/api/trans/product/apido)
+#### 参考(Reference)
+[百度翻译API Baidu Translate API](http://api.fanyi.baidu.com/api/trans/product/apido)
