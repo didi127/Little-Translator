@@ -19,8 +19,8 @@ function App() {
   const [statisticText, setStatisticText] = useState('Statistics: there are 0 words, the word of "i" appears 0 times')
   const [wordStatisticResult, setWordStatisticResult] = useState<WordStatisticResult | null>(null);
 
-  const appid = '20230316001603096';
-  const key = '3wLMHej2nPWxD8qj83eM';
+  const appid = '百度apiId';
+  const key = '百度key密钥';
   const salt = (new Date).getTime();
  
   // 多个query可以用\n连接  如 query='apple\norange\nbanana\npear'
