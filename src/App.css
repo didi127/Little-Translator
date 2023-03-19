@@ -56,6 +56,11 @@
   position: absolute;
   top: 250px;
   left: 800px;
+  width: 150px;
+  height: 57px;
+  font-size: 26px;
+  padding: 0;
+  color: #fff;
 }
 .pEl {
   float: left;
@@ -63,7 +68,7 @@
   top: 400px;
   left: 200px;
   font-weight: bolder;
-  font-size: 25px;
+  font-size: 35px;
 
 }
 
@@ -71,7 +76,7 @@
   float: right;
   position: absolute;
   top: 440px;
-  left: 800px;
+  left: 690px;
   width: 250px;
   height: 30px;
   /* margin-left: -400px; */
@@ -86,6 +91,6 @@
 
 .tongji {
   position: absolute;
-  top: 650px;
+  top: 630px;
   left: 200px;
 }
